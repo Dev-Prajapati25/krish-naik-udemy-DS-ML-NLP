@@ -1,0 +1,10 @@
+{
+  "name": "Alice",
+  "age": 21,
+  "is_student": true,
+  "courses": ["Math", "CS", "Physics"],
+  "address": {
+    "city": "Delhi",
+    "zip": "110001"
+  }
+}
